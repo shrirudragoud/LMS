@@ -1,0 +1,38 @@
+.root {
+  position: absolute;
+  left: 178px;
+  top: 112px;
+  width: 756px;
+  height: 416px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.frame4 {
+  position: absolute;
+  left: 747px;
+  top: 265px;
+  width: 276px;
+  height: 245px;
+  flex-direction: column;
+  overflow: hidden;
+}
+.frame5 {
+  position: absolute;
+  left: 752px;
+  top: 237px;
+  width: 253px;
+  height: 273px;
+  flex-direction: column;
+  overflow: hidden;
+}
+.frame6 {
+  position: absolute;
+  left: 747px;
+  top: 237px;
+  width: 258px;
+  height: 233px;
+  flex-direction: column;
+  background-color: #ebe7fe;
+  overflow: hidden;
+}
